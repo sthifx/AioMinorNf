@@ -1,0 +1,48 @@
+name: AioMinor_Preprocess
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - _openmp_mutex=4.5=20_gnu
+  - bamclipper=1.0.0=hdfd78af_2
+  - bedtools=2.31.1=hf5e1c6e_2
+  - bowtie2=2.3.5=py37he860b03_0
+  - bzip2=1.0.8=hda65f42_10
+  - c-ares=1.34.8=hebe6cf0_2
+  - ca-certificates=2026.7.22=hbd8a1cb_0
+  - curl=7.87.0=h6312ad2_0
+  - hisat2=2.1.0=py37hc9558a2_4
+  - htslib=1.9=h244ad75_9
+  - keyutils=1.6.3=h7cc23a3_1
+  - krb5=1.20.1=hf9c8cef_0
+  - ld_impl_linux-64=2.46.1=bootstrap_ha15bf96_3
+  - libcurl=7.87.0=h6312ad2_0
+  - libdeflate=1.26=h351257e_0
+  - libedit=3.1.20191231=h46ee950_2
+  - libev=4.33=h280c20c_3
+  - libffi=3.2.1=he1b5a44_1007
+  - libgcc=16.2.0=ha9f2e26_7
+  - libgcc-ng=16.2.0=h69a702a_7
+  - libgomp=16.2.0=he0feb66_7
+  - libnghttp2=1.51.0=hdcd2b5c_0
+  - libssh2=1.10.0=haa6b8db_3
+  - libstdcxx=16.2.0=h934c35e_7
+  - libstdcxx-ng=16.2.0=hdf11a46_7
+  - libxcrypt=4.4.38=h280c20c_0
+  - libzlib=1.2.13=h4ab18f5_6
+  - ncurses=6.1=hf484d3e_1002
+  - openssl=1.1.1w=hd590300_0
+  - parallel=20260922=hd8ed1ab_0
+  - perl=5.44.0=1_h7cc23a3_perl5
+  - pip=24.0=pyhd8ed1ab_0
+  - python=3.7.8=h6f2ec95_1_cpython
+  - readline=8.0=h46ee950_1
+  - samtools=1.9=h10a08f8_12
+  - setuptools=69.0.3=pyhd8ed1ab_0
+  - sqlite=3.32.3=hcee41ef_1
+  - tbb=2020.2=h4bd325d_4
+  - tk=8.6.13=noxft_h4845f30_101
+  - wheel=0.42.0=pyhd8ed1ab_0
+  - xz=5.2.6=h166bdaf_0
+  - zlib=1.2.13=h4ab18f5_6
+
