@@ -267,3 +267,6 @@ The key distinction between the two analyses is the reference used for variant f
 The day 1 comparison is intended to facilitate longitudinal investigation of viral variation within individuals, including the emergence and changing frequencies of variants relative to baseline.
 
 Samples belonging to patients without a matching day 1 consensus are excluded from this additional analysis. The standard AioMinor results remain available for all successfully processed samples.
+
+## Downstream processing
+A Conda environment file (r_environment.yml) is provided, containing the R packages required for downstream data processing, statistical analysis and visualisation.
